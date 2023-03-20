@@ -42,7 +42,7 @@ class Ball extends StatefulWidget {
 }
 
 class _BallState extends State<Ball> {
- static int ballNumber=0;
+ static int ballNumber=1;
 
   @override
   Widget build(BuildContext context) {
